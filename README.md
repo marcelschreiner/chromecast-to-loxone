@@ -1,8 +1,5 @@
 # chromecast-to-loxone
 
-
-# Philips chromecast to Loxone Bridge
-
 ![Pylint](https://github.com/marcelschreiner/chromecast-to-loxone/actions/workflows/pylint.yml/badge.svg)
 [![HitCount](https://hits.dwyl.com/marcelschreiner/chromecast-to-loxone.svg?style=flat)](http://hits.dwyl.com/marcelschreiner/chromecast-to-loxone)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=marcelschreiner_chromecast-to-loxone&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=marcelschreiner_chromecast-to-loxone)
